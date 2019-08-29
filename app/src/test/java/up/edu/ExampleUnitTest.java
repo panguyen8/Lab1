@@ -1,4 +1,4 @@
-package ed.up.cs301.lab1;
+package up.edu;
 
 import org.junit.Test;
 

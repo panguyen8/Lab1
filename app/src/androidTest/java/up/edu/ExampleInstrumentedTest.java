@@ -1,4 +1,4 @@
-package ed.up.cs301.lab1;
+package up.edu;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("ed.up.cs301.lab1", appContext.getPackageName());
+        assertEquals("up.edu", appContext.getPackageName());
     }
 }

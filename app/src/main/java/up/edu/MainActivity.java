@@ -1,4 +1,4 @@
-package ed.up.cs301.lab1;
+package up.edu;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
